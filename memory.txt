@@ -1,0 +1,30 @@
+Prefers to keep line breaks in translations.
+Prefers to always remove extra spaces in HTML tags.
+Prefers no spaces inside href="" and other HTML tags, keeping the format as in the source and removing any extra spaces.
+Prefers translations to match the source structure and punctuation, avoiding extra lists or formatting changes, and without adding extra text.
+Prefers translations to match the source without adding extra text.
+Prefers not to translate text after @ and % signs.
+Prefers not to use quotes in translations if they are not present in the source text.
+Prefers to translate 'Content' as 'Контент'.
+Prefers to translate "Manage" as "Управљање".
+Prefers to translate 'email' as 'имаил'.
+Prefers to translate 'node' as 'нод'.
+Prefers to translate 'string' as 'стринг'.
+Prefers to translate 'shortcut' as 'кратак пут.'
+Prefers to translate "Get Started" as a noun.
+Prefers not to add a period in translations if it's not in the source text.
+Prefers to use the word 'речник' for translations.
+Prefers to receive only one translation variant.
+Prefers using the word 'фајл' instead of 'датотека' in translations.
+Prefers using the word 'нод' instead of 'чвор' in translations.
+Prefers to keep words after @ and % signs untranslated.
+Prefers no transformation in translations.
+Prefers translations not to be in upper case.
+Prefers to follow the case from the source in translations.
+Prefers to translate "Suffix text" as "Текст који ће бити приказан после овог линка.".
+Prefers using Cyrillic for translations.
+Prefers to capitalize the first letter in translations.
+Prefers to use the word 'контент' in Serbian translations.
+Refers to HTML radio elements when mentioning 'Radios.'
+
+

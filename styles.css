@@ -1,0 +1,89 @@
+body {
+  background: #424242;
+  color: #fff
+}
+
+.l10n-server-filter {
+  background: #404040;
+  border: 1px solid #555;
+}
+
+.l10n-server-filter .filter-widget label {
+  color: #ddd
+}
+
+a, a:visited, a:active, details > summary {
+  color: #bbb;
+}
+
+.new-style h1, .new-style h2 {
+  color: #fff;
+}
+
+#tabs ul.tabs li a, .drupalorg-site-api ul.tabs li a {
+  color: #ddd;
+  border: 1px solid #eee;
+}
+
+.l10n-table {
+  thead {
+    display: none;
+  }
+}
+
+.l10n-usage {
+  display: none;
+}
+
+thead th {
+  color: #eee;
+}
+
+tr.odd {
+  background: #222;
+}
+
+tr.even {
+  background: #444;
+}
+
+.td.source .l10n-usage {
+  color: #333;
+}
+
+.CodeMirror-lines {
+  color: #000;
+}
+
+td.source .l10n-usage .l10n-more-link {
+  color: #fff;
+}
+
+.actions {
+  display: none;
+  visibility: hidden;
+}
+
+.l10n-usage {
+  display: none;
+    visibility: hidden;
+}
+
+textarea {
+  background: #222;
+  color: #fff;
+  padding: 5px;
+}
+
+.l10n-placeholder {
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  
+  code {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    white-space: normal;
+  }
+}
